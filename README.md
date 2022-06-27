@@ -1,7 +1,39 @@
+# DIO
 # Introdução ao React Native
 
 ![image](https://user-images.githubusercontent.com/71729281/176051841-05a386f6-c4e6-4ea8-811f-f418ac4e7545.png)
 
+# Conteúdo
+- Conhecendo o React Native
+  - O que é react-native?
+  - O que é cross-platform?
+  - Origem do RN 
+- Documetação:
+  - Componentes
+  - API
+  - Comunidades (Blog)
+- Setup 
+  - Instalação do Chocolatey
+  - Node
+  - Java 11 (JDK)
+  - Yar
+  - Android Studio
+    - Donwload android S
+    - Criar um avd (Andorid Virtual Device)
+- Criação do projeto 
+  - Uso do React Native CLI
+  - EsTrutua de pasta
+- Projeto Profile
+  - View 
+  - Text
+  - SafeAreaView
+  - Image
+  - Flex-box
+  - Style (StyleSheet)
+  - Pressable
+  - Linking API 
+  - Add código nativo no AndroidManifest.xml para avrir link
+  
 ## Criando um tela de Profile
 
 ### Imagem retirada do GitHub - posicionando com Flex-Box 

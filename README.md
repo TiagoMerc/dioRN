@@ -1,5 +1,7 @@
 # Introdução ao React Native
 
+![image](https://user-images.githubusercontent.com/71729281/176051841-05a386f6-c4e6-4ea8-811f-f418ac4e7545.png)
+
 ## Criando um tela de Profile
 
 ### Imagem retirada do GitHub - posicionando com Flex-Box 
